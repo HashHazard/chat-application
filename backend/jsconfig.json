@@ -1,0 +1,10 @@
+// jsconfig.json at project root
+{
+  "compilerOptions": {
+    "moduleResolution": "node", // add this line.
+    "module": "ES6",
+    "jsx": "preserve",
+    "checkJs": false
+  },
+  "exclude": ["node_modules", "**/node_modules/*"]
+}

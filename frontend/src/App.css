@@ -1,0 +1,15 @@
+* {
+  margin: 0;
+}
+
+.App {
+  background-color: #dddedd;
+
+  /* apply it to the full height */
+  min-height: 100vh;
+
+  /* center the element */
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
